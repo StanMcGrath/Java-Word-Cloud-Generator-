@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////
 
-Features of WordCloud Application - G00398383
+Features of WordCloud Application
 
 ///////////////////////////////////////////////
 
@@ -262,11 +262,7 @@ was generated using if else statements.
 
 Extra)
 
-WordPlacementRandomizer and WordStyleRandomizer classes were deployed on the initiative of the author of this application. The loop in the WordCloudDrawer 
-class which draws words relative to the size of other words and within a max and minimum size range was also deployed as an extra feature.
-
-No code was asset-stripped from the internet, the entire application was created by the author using knowledge gained from the course material lectures and 
-javadocs, as well as some google searches for minor syntactical details or how Java API.
+No code was asset-stripped from the internet.
 
 The "ignorewords" .txt file is located both in the project folder and src folder. This is by design, as when testing our project in the Eclipse IDE, 
 it could only read the .txt file from the Project folder, but when testing through the Windows command prompt, it appeared the text file could only be 
